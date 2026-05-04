@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = "capemod", version = "@VERSION@", clientSideOnly = true, acceptedMinecraftVersions = "1.8.9")
+@Mod(modid = "gifcapes", name = "GifCapes", version = "@VERSION@", clientSideOnly = true, acceptedMinecraftVersions = "1.8.9")
 public class CapeMod {
 
   @EventHandler

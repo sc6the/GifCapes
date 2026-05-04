@@ -1,11 +1,11 @@
 [
   {
-    "modid": "capemod",
-    "name": "CapeMod",
+    "modid": "gifcapes",
+    "name": "GifCapes",
     "description": "Client-side custom cape (PNG / APNG). Apply a local cape that overrides any Mojang/OptiFine cape, including animated capes.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "authorList": ["proxycracked"],
-    "credits": "Extracted from UniversalAccountManager."
+    "credits": ""
   }
 ]
