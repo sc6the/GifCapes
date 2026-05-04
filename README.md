@@ -6,11 +6,6 @@ Client-side custom cape mod for Minecraft **1.8.9** Forge. Loads any PNG or APNG
 
 - Static PNG and animated APNG capes
 - HD cape sheets up to 1024x512 (CAPE region 352x272)
-- Persistent across restarts (saved in `.minecraft/capemod_cape.png` + `.json`)
-- Front-of-cape preview swatch in the GUI
-- Toggle button in the pause menu (top-left) to switch capes on/off without losing the loaded image
-- "Cape" button in the pause menu (top-right) opens the change-cape screen
-- OptiFine-aware (overrides OptiFine's `locationOfCape` when present)
 
 ## Build
 
